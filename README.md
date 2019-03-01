@@ -8,11 +8,11 @@ Jest wysoce zalecane, by w ustawieniach query window Management Studio mieć wł
 
 #### Wygląd planszy gry:
 
-<img src="board.png"/>
+<img src="https://github.com/BratWiekszy/SQL-Saper/blob/master/board.PNG"/>
 
 #### Jak uruchomić?
 
-Odpal skrypt [SaperBase/Full DB Install batch.sql]()
+Odpal skrypt [SaperBase/Full DB Install batch.sql](https://github.com/BratWiekszy/SQL-Saper/blob/master/SaperBase/Full%20DB%20install%20batch.sql)
 
 ###### _Serio?_
 
