@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SaperBase">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="OLDFOUNDRY0X00:OLDFOUNDRY0X00\Brat Wiekszy">
+          <Created>2019-03-01T18:58:08.0221596+01:00</Created>
+          <Type>SQL</Type>
+          <Server>OLDFOUNDRY0X00</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Create Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:OLDFOUNDRY0X00:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>OLDFOUNDRY0X00</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._clearStructs.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._clearStructs.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._flagSlot.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._flagSlot.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._getSlotsInVicinity.UserDefinedFunction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._getSlotsInVicinity.UserDefinedFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._idToX.UserDefinedFunction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._idToX.UserDefinedFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._idToY.UserDefinedFunction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._idToY.UserDefinedFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._initBoard.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._initBoard.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._isDebugMode.UserDefinedFunction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._isDebugMode.UserDefinedFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._printBoard.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._printBoard.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo._printBoardCustom.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo._printBoardCustom.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo.flagSlot.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo.flagSlot.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo.gameboard.Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo.gameboard.Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo.gamemeta.Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo.gamemeta.Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo.help.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo.help.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo.initGame.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo.initGame.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo.strikeSlot.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo.strikeSlot.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dbo.unflagSlot.StoredProcedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>dbo.unflagSlot.StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Full DB install batch.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:OLDFOUNDRY0X00:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>OLDFOUNDRY0X00</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Full DB install batch.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
